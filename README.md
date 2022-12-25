@@ -7,13 +7,13 @@ hi, i'm [Mulya Hadi Saputra](https://mulyasaputra.github.io/)
 
 <br />
 
-<a href="https://www.instagram.com/appsventory/"><img align="left" alt="Instagram" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/instagram.png" /></a>
-<a href="https://www.tiktok.com/@appsventory"><img align="left" alt="TikTok" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/tiktok.png" /></a>
-<a href="https://mulyasaputra.github.io/"><img align="left" alt="Portofolio" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/web.png" /></a>
-<a href="https://dribbble.com/Appsventory/"><img align="left" alt="dribbble" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/dribbble.png" /></a>
-<a href="https://id.pinterest.com/Appsventory/"><img align="left" alt="pinterest" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/pinterest.png" /></a>
-<a href="https://www.dailymotion.com/inicaraku_official"><img align="left" alt="dailymotion" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/dailymotion.png" /></a>
-<a href="https://www.youtube.com/channel/UCcJCTC9nMe7AyhJIda4Kc3A"><img align="left" alt="Youtube" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/youtube.png" /></a>
+<a target="_blank" href="https://www.instagram.com/appsventory/"><img align="left" alt="Instagram" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/instagram.png" /></a>
+<a target="_blank" href="https://www.tiktok.com/@appsventory"><img align="left" alt="TikTok" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/tiktok.png" /></a>
+<a target="_blank" href="https://mulyasaputra.github.io/"><img align="left" alt="Portofolio" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/web.png" /></a>
+<a target="_blank" href="https://dribbble.com/Appsventory/"><img align="left" alt="dribbble" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/dribbble.png" /></a>
+<a target="_blank" href="https://id.pinterest.com/Appsventory/"><img align="left" alt="pinterest" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/pinterest.png" /></a>
+<a target="_blank" href="https://www.dailymotion.com/inicaraku_official"><img align="left" alt="dailymotion" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/dailymotion.png" /></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCcJCTC9nMe7AyhJIda4Kc3A"><img align="left" alt="Youtube" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/youtube.png" /></a>
 
 <br />
 
@@ -29,7 +29,7 @@ hi, i'm [Mulya Hadi Saputra](https://mulyasaputra.github.io/)
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/Appsventory" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br />
 
