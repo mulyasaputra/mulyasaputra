@@ -15,8 +15,6 @@ hi, i'm [Mulya Hadi Saputra](https://mulyasaputra.github.io/)
 <a href="https://www.dailymotion.com/inicaraku_official"><img align="left" alt="dailymotion" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/dailymotion.png" /></a>
 <a href="https://www.youtube.com/channel/UCcJCTC9nMe7AyhJIda4Kc3A"><img align="left" alt="Youtube" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/youtube.png" /></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mulyasaputra.mulyasaputra)
-
 <br />
 
 **languages and tools:**
