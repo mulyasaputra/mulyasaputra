@@ -1,38 +1,16 @@
-### hey there
 
-hi, i'm [Mulya Hadi Saputra](https://mulyasaputra.github.io/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mulyaha_disapu_tra) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mulyaha_disapu_tra) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mulyaha_disapu_tra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mulyaha_disapu_tra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mulyahadi95@gmail.com) 
 
-- 💼 any freelance work? do reach, [email](mailto:mulyahadi95@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mulyasaputra&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mulyasaputra&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mulyasaputra&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br />
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/appsventory) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Creative45) 
 
-<a target="_blank" href="https://www.instagram.com/appsventory/"><img align="left" alt="Instagram" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/instagram.png" /></a>
-<a target="_blank" href="https://www.tiktok.com/@appsventory"><img align="left" alt="TikTok" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/tiktok.png" /></a>
-<a target="_blank" href="https://mulyasaputra.github.io/"><img align="left" alt="Portofolio" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/web.png" /></a>
-<a target="_blank" href="https://dribbble.com/Appsventory/"><img align="left" alt="dribbble" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/dribbble.png" /></a>
-<a target="_blank" href="https://id.pinterest.com/Appsventory/"><img align="left" alt="pinterest" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/pinterest.png" /></a>
-<a target="_blank" href="https://www.dailymotion.com/inicaraku_official"><img align="left" alt="dailymotion" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/dailymotion.png" /></a>
-<a target="_blank" href="https://www.youtube.com/channel/UCcJCTC9nMe7AyhJIda4Kc3A"><img align="left" alt="Youtube" width="25px" src="https://github.com/mulyasaputra/mulyasaputra/blob/main/icons/youtube.png" /></a>
-
-<br />
-
-**languages and tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/Appsventory" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-<br />
-
-📈 my github stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mulyasaputra&show_icons=true&theme=gotham" alt="mulyasaputra" />
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
